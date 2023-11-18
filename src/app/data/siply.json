@@ -1,0 +1,10 @@
+{
+  "companyName": "Siply",
+  "position": "Backend Engineer",
+  "duration": "OCT 2021 - APRIL 2022",
+  "keyResponsibilities": [
+    "Developed a RESTful API using golang & AWS Lambda, handling over 1M users.",
+    "Worked on payment processing using Cashfree SDK.",
+    "Database design and management using MySQL."
+  ]
+}

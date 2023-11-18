@@ -1,0 +1,14 @@
+{
+  "companyName": "Hashout Technologies",
+  "position": "Senior Software Engineer",
+  "duration": "MARCH 2020 - OCT 2021",
+  "keyResponsibilities": [
+    "Worked on various features of an ETF application built with Angular, python and mysql.",
+    "Built features such as SSO using self-hosted openiam, set up notifications service with AWS SNS & Lambda.",
+    "Micro frontend applications & custom UI library using Vue.js."
+  ],
+  "links": [
+    "https://www.citrix.com/products/citrix-daas/resources/azure-virtual-desktop-calculator.html#/",
+    "https://www.citrix.com/products/citrix-daas/resources/citrix-azure-calculator.html#/"
+  ]
+}

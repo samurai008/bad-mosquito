@@ -1,0 +1,16 @@
+{
+  "companyName": "Auctree",
+  "position": "Fullstack Developer",
+  "duration": "MAY 2022 - present",
+  "keyResponsibilities": [
+      "Built Auctree.com using Next.js, React, TypeScript, GraphQL & Apollo.",
+      "Deployment configurations using Github CI to reduce release time & maintain code quality.",
+      "Architected various features like bidding, payment, notifications, etc.",
+      "Built various internal tools to improve workflow & reduce manual work."
+  ],
+  "links": [
+    "https://auctree.com/en/",
+    "https://auctree.com/en/how-judicial-properties-work/",
+    "https://auctree.com/en/marketplace/?display_order=relevance"
+  ]
+}
