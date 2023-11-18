@@ -1,6 +1,6 @@
 "use client";
 
-import ArrowTopRightOnSquareIcon from "../icons/arrowTopRightOnSquare";
+import ArrowTopRightOnSquareIcon from "../icons/arrowTopRightOnSquareIcon";
 import CheckIcon from "../icons/checkIcon";
 import CalendarDays from "./calendarDays";
 
