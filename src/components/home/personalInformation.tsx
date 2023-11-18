@@ -20,9 +20,9 @@ export default function PersonalInformation(props: Props) {
               href="https://linkedin.com/in/nilabjo"
               target="_blank"
               rel="noreferrer"
-              className="flex gap-x-1 items-center pt-2 text-blue-600 underline underline-offset-2"
+              className="flex gap-x-1 items-center pt-2 text-blue-600 underline underline-offset-2 w-fit"
             >
-              <LinkedInIcon className="w-4 h-4 min-w-fit" />
+              <LinkedInIcon className="w-4 h-4" />
               LinkedIn
             </a>
           </div>
@@ -31,9 +31,9 @@ export default function PersonalInformation(props: Props) {
               href="/files/Nilabjo_Sanyal.pdf"
               target="_blank"
               rel="noreferrer"
-              className="flex gap-x-1 items-center pt-2 text-blue-600 underline underline-offset-2"
+              className="flex gap-x-1 items-center pt-2 text-blue-600 underline underline-offset-2 w-fit"
             >
-              <PaperClipIcon className="w-4 h-4 min-w-fit" />
+              <PaperClipIcon className="w-4 h-4" />
               Resume
             </a>
           </div>
