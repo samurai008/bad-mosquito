@@ -8,8 +8,9 @@ import gsap from "gsap";
 import ScrollTrigger from "gsap/ScrollTrigger";
 import { useLayoutEffect, useRef } from "react";
 import auctree from "@/app/data/auctree.json";
-import siply from '@/app/data/siply.json';
-import hashout from '@/app/data/hashout.json';
+import siply from "@/app/data/siply.json";
+import hashout from "@/app/data/hashout.json";
+import ScrollDownIcon from "@/components/icons/scrollDownIcon";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -50,6 +51,9 @@ export default function Home() {
       {companyDetails.map((companyDetail) => (
         <CompanyDetail key={companyDetail.companyName} {...companyDetail} />
       ))}
+      <div className="fixed bottom-4 left-1/2 -translate-x-1/2 animate-bounce">
+        <ScrollDownIcon className="w-8 h-8" />
+      </div>
     </main>
   );
 }
